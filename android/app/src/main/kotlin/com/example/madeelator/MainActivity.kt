@@ -1,4 +1,4 @@
-package com.example.madeelator
+package com.madeean.madeelator
 
 import io.flutter.embedding.android.FlutterActivity
 
